@@ -36,7 +36,7 @@ Please get into groups of 3-4 and introduce yourselves if there is someone you d
 ## Agenda
 
 1. Course structure
-2. Reflections from teaching [group discussion]
+2. Reflections from teaching
 3. Curating attention
 4. The limits of working memory
 5. Concrete strategies
@@ -298,7 +298,9 @@ knitr::include_graphics("figs/model-of-thinking.jpeg")
 ---
 ## Group Discussion
 
-.task[With your group, come up with a list of 5 strategies that help students chunk the information to make more room in working memory.]
+.task[
+With your group, come up with a list of **5 strategies** that help students chunk the information to make more room in working memory.
+]
 
 ```{r echo = FALSE}
 countdown(minutes = 5, bottom = 0, font_size = "2em")
@@ -358,10 +360,16 @@ class: middle, center
 
 
 ---
+class: middle, center
+## Concrete Strategies
+
+---
 ## Concrete Strategies
 
 .task[
+
 Read through the handout and then with your group share two teaching strategies that you could see yourself using to guide attention and memory.
+
 ]
 
 ```{r echo = FALSE}
