@@ -27,7 +27,6 @@ library(countdown)
 source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xaringan-theme.R")
 ```
 
----
 ## While you're waiting
 
 Please get into groups of 3-4 and introduce yourselves if there is someone you don't know.
@@ -104,7 +103,7 @@ class: middle, center, inverse
 ## Reflections from teaching
 
 .task[
-Please share
+In your groups, take turns sharing:
 
 1. One thing that went well
 2. One thing that went poorly
@@ -192,12 +191,18 @@ Following the orders of Ambrogio Spinola, Philip IV's army laid siege to Breda i
 
 .cite[Source: Wikipedia]
 
+???
+The Siege of Breda was a dramatic event in Spanish history. It occured in the 17th century as a part of the Eighty years war. The Spanish Army, under the commander Ambrogio Spinola, representing King Philip V of Spain laid siege to the city in August at a time when sieges were thought to no longer be effect tools in a military campaign. The city of Breda was well-defended and were confident they would win.
+
 ---
 # Siege of Breda, cont.
 
 Yet despite the Spanish government's opposition to major sieges in the Low Countries and the obstacles confronting any attack on such a strongly fortified and defended city, Spinola launched his Breda campaign, rapidly blocking the city's defences and driving off a Dutch relief army under the leadership of Maurice of Nassau that had attempted to cut off the Spanish army's access to supplies. 
 
 The siege of Breda is considered Spinola's greatest success and one of Spain's last major victories in the Eighty Years' War. The siege was part of a plan to isolate the Republic from its hinterland, and co-ordinated with Olivare's naval war spearheaded by the Dunkirkers, to economically choke the Dutch Republic. Although political infighting hindered Spinola's freedom of movement, Spain's efforts in the Netherlands continued thereafter.
+
+???
+Once Spinola laid siege to the city, two relief efforts were made, first by the Dutch, then by the British. In the end, the city capitulated to Spinola in an event memorialized in a famous painting.
 
 ---
 background-image: url(figs/velasquez.jpeg)
@@ -207,9 +212,16 @@ background-size: contain;
 
 <!-- The Surrender at Breda by Velasquez --> 
 
+??? This is the Surrender at Breda by Velasquez
+
+...describe what you see...
+
 ---
 background-color: #000000
 
+
+???
+The reason why the Siege of Breda is important is that is bolstered the pride and reputation of the Spanish Army.
 
 ---
 # The Siege of Breda
@@ -223,6 +235,13 @@ _Netherlands_
 1. Which two wars were going on at this time?
 --
 _Eighty Years War and Thirty Years War._
+
+--
+
+1. Who was the King of Spain in this era?
+--
+_Philip IV._
+
 
 --
 
