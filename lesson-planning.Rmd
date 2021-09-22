@@ -31,16 +31,6 @@ source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xa
 
 Please get into groups of 3-4 and introduce yourselves if there is someone you don't know.
 
-???
-
-1. On their own: 5 min do stickies
-2. slides: 5E
-3. In pairs 5 min: share stickies, label each with the appropriate E
-4. slides: show lesson planning form
-5. 15 min / 15 min, take turns filling out lesson plan, moving/adding components as needed.
-6. Discussion of 5E
-  - What works, what doesn't?
-  - What class venues (forum, lecture, lab, disc) work best for each?
 
 ---
 ## Agenda
@@ -330,13 +320,28 @@ class: center, middle, inverse
 .pull-left[
 ```{r echo = FALSE, out.width="100%"}
 # from Math 1A
-knitr::include_graphics("figs/plan1A.png")
+knitr::include_graphics("figs/math1A-A.png")
 ```
 ]
 
 .pull-right[
 ```{r echo = FALSE, out.width="100%"}
-knitr::include_graphics("figs/plan1B.png")
+knitr::include_graphics("figs/math1A-B.png")
+```
+]
+
+---
+
+.pull-left[
+```{r echo = FALSE, out.width="100%"}
+# from Prob 140
+knitr::include_graphics("figs/data140-A.png")
+```
+]
+
+.pull-right[
+```{r echo = FALSE, out.width="100%"}
+knitr::include_graphics("figs/data140-B.png")
 ```
 ]
 
@@ -358,3 +363,9 @@ Every GSI is operating within different constraints. Start small. Try changing j
 - Collect some form of assessment (informal is ok!) from your students every class.
 
 
+---
+## References
+
+This class session is adapted from:
+
+Pickett, Sarah and Marisella Rodriguez. (July 7, 2021). _What Comes First? How We Can (Re)Order What We Teach to Align with How People Learn_. Center for Teaching and Learning, University of California, Berkeley. Campus-wide workshop.
