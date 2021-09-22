@@ -29,7 +29,7 @@ source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xa
 
 ## While you're waiting
 
-Please get into groups of 3-4 and introduce yourselves if there is someone you don't know.
+Please get into pairs and introduce yourselves if you don't yet know one another. Try to pair with someone who is not teaching the same course.
 
 
 ---
