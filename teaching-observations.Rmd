@@ -1,0 +1,91 @@
+---
+title: "Teaching Observations"
+author: "STAT 375 UC Berkeley"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: solarized-light
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(message = FALSE, 
+                      fig.align = "center",
+                      fig.retina = 3,
+                      warning = FALSE)
+
+library(tidyverse)
+library(emo)
+library(lorem)
+library(xaringanthemer)
+library(countdown)
+source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xaringan-theme.R")
+```
+
+## While you're waiting
+
+Please get into groups of 3-4 and introduce yourselves if there is someone you don't know.
+
+---
+## Agenda
+
+1. Reflections from teaching
+2. Observing a lesson
+3. Guest: Elisa Stone, Director, CalTeach
+
+---
+class: middle, center, inverse
+
+# Reflections from teaching
+
+---
+## Reflections from teaching
+
+.task[
+In your groups, take turns sharing:
+
+1. One thing that went well
+2. One thing that went poorly
+3. One thing you learned
+]
+
+```{r echo = FALSE}
+countdown(minutes = 10, bottom = 0)
+```
+
+---
+class: middle, center
+
+# Observing a Lesson
+
+---
+## Observing a Lesson
+
+I will give a 20 minute lesson. You will have dual roles: **student** and **observer**.
+
+### As an observer
+
+- Please take _objective_ notes about what happens in during the lesson: what I do, what I say, and how students in the class respond.
+- Refrain from making judgements.
+- Periodically note the time at which various elements occur.
+
+
+---
+## Peer Observations
+
+1. Meet your partner and decide on times when each of you will observe one anothers' class.
+
+2. Share which element of teaching you'd each like your observer to focus on (e.g. timing, clear boardwork, students engagement)
+
+3. Observe one another and take notes guided by the observation form.
+
+4. Debrief your observations on 10/11 in class.
+
+.task[
+Please do 1-2 in pairs and enter your information in the google form:
+[https://forms.gle/FWWNLFpnr6ciyE8B9](https://forms.gle/FWWNLFpnr6ciyE8B9)
+]
