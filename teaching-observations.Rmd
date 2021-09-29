@@ -28,7 +28,7 @@ source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xa
 
 ## While you're waiting
 
-Please get into groups of 3-4 and introduce yourselves if there is someone you don't know.
+Please sit in pairs with someone who is teaching as similar a class to yours as possible.
 
 ---
 ## Agenda
