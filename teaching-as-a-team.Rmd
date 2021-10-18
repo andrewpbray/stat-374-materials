@@ -271,6 +271,9 @@ Consider a specific aspect of or incident in your working relationship with your
 ---
 ## Suggestions: Structure
 
-- roles
-- meetings
-- communication
+- Responsibilities of team members
+  - Clear
+- Meetings
+  - _Inherit existing power dynamics_.
+  - Agenda
+  - Assign roles
