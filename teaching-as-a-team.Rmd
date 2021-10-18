@@ -172,7 +172,8 @@ class: middle, center, inverse
 # The Instructor Perspective
 
 - "core and main engine of the course"
-- "create quiz/exam  questions"
+- "create quiz/exam questions"
+- "in charge of leading section"
 - "empathise with students"
 - "instructors' eyes and ears"
 - "timely, fair and accurate grading of problem sets"
