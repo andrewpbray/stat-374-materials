@@ -168,17 +168,34 @@ class: middle, center, inverse
 # Teaching as a Team
 
 ---
-## The Role of a GSI
 
-Threee-Five roles emerged
+## The Role of a GSI: The Instructor Perspective
+
+- "core and main engine of the course"
+- "create quiz/exam questions"
+- "in charge of leading section"
+- "empathise with students"
+- "instructors' eyes and ears"
+- "timely, fair and accurate grading of problem sets"
+- "My jobs are similar to yours except that I am giving lectures not lab sessions"
+- No response (most common!)
+
+---
+## The Role of a GSI: The GSI Perspective
+
+A few roles emerged:
 
 ### Facilitator
 
-### Grader
+### Point of Contact
 
-###3 balkd
+### Content Creator
 
-Decide which on of these you most identify with.
+### Operations/Logistics Support
+
+### Inspirer
+
+Decide which one of these you *most* identify with.
 
 ---
 ## Discuss
@@ -349,7 +366,11 @@ Consider a specific aspect of or incident in your working relationship with your
 ---
 ## Suggestions: Communication
 
-
+- Don't be afraid to ask questions!
+- Reach out to other staff if you can't complete a task or don't know how
+- Regularly check in with your AIs/tutors/graders
+    - Ensure that you yourself are approachable as well
+- But don't forget to set boundaries!
 
 ---
 ## Suggestions: Structure
