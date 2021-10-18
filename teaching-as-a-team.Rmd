@@ -172,24 +172,29 @@ class: middle, center, inverse
 
 Beyond facilitating your section, several other roles emerged:
 
-### Point of Contact
+.pull-left[
+**Point of contact**: Link between student and rest of course
 
-### Content Creator
+**Content Creator**: Write lesson plans, questions, rubrics
+]
 
-### Operations/Logistics Support
+.pull-right[
+**Operations**: Course infrastructure, grading
 
-### Inspirer
+**Inspirer**: Keep students engaged and motivated
+]
 
+.task[
 Decide which one of these you *most* identify with.
+]
 
 ---
 ## Discuss
 
-Find 2-3 other people who tend to view their roles differently and answer.
+Find 2-3 other people who tend to view their roles **differently** and take turns sharing.
 
-1. 
+1. Your primary and secondary roles, as you understand them to be.
 2. 
-3. 
 
 ---
 class: center, middle, inverse
