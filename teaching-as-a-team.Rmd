@@ -189,6 +189,91 @@ Find 2-3 other people who tend to view their roles differently and answer.
 2. 
 3. 
 
+---
+## Members of the Teaching Team at Cal
+
+1. Instructor
+2. GSI / uGSI
+3. Reader
+4. Tutor
+5. Academic Intern
+
+> Who fills these positions?
+> What is their role?
+
+---
+## Instructor
+
+**Who are they?**
+- Short and long term lecturers, members of the academic senate (professors), adjunct faculty.
+
+--
+
+**Role**
+- Responsible for the content and conduct of a course.
+.pull-left[
+- Curriculum: what is taught
+- Pedagogy: how it's taught
+- Course design, policies
+- Instruction
+- Course infrastructure
+]
+--
+.pull-right[
+- Guiding GSIs
+- Grading and feedback
+- DSP accomodations
+- Academic misconduct
+- Entering grades
+]
+  
+---
+## (under) Graduate Student Instructor
+
+**Who are they?**
+- Graduate students or undergraduate students when qualified graduate students cannot be found. May come from different departments.
+
+--
+
+**Role**
+UC identifies three types. 
+
+- Role (a): teaches secondary sections of a larger course. _This is the most common type of GSI position._
+- Role (b): functions as the instructor of a course in which the curriculum is prescribed, but is responsible for selecting readings, for how the material is
+presented, and for grading student work. Ex. include language, studio, or Reading and Composition courses.
+- Role (c): Head GSI who functions as coordinator of other GSIs and/or performs other teaching or administrative duties.
+
+
+---
+GSI duties identified by faculty:
+
+```{r echo = FALSE}
+knitr::include_graphics("figs/ta-duties.png")
+```
+
+
+---
+## Reader
+
+**Who are they?**
+- Usually be graduate students, but qualified undergrads may be employed when grad students are not available. Professional readers, not enrolled as students, may be employed to meet special needs.
+
+--
+
+**Role**
+- Render diverse services as course assistants, which will normally include the grading of student papers and examinations. Subject to assignment by the department, duties might also include attendance at lectures, office hours, consultation with the instructor, and other course-related duties. Readers may not perform teaching duties.
+
+---
+## Tutor
+
+**Who are they?**
+- Usually graduate students, but qualified undergrads may be employed when grad students are not available.
+
+--
+
+**Role**
+- Appointees to the Tutor title are employed to render individual or group instructional activities in support of regular academic programs. Under supervision, a Tutor’s duties may include individual tutoring sessions, group tutoring sessions, presentation at workshops, and other duties as assigned. Tutors do not perform teaching duties assigned to the GSI series.
+
 
 ---
 ## Teaching as a Team: Well
@@ -251,8 +336,6 @@ plot(qr)
 ```{r echo = FALSE}
 countdown(minutes = 1.5, bottom = 0)
 ```
-
-
 
 ---
 ## Teaching as a Team: Poorly
