@@ -89,6 +89,7 @@ _Person with a longer first name will be instructor 1._
 ## Debrief Instructor 1
 
 1. Instructor 1
+
     - What was your impression of the class? 
     - What were the strengths?
     - Where are you seeking suggestions for improvement?
@@ -114,6 +115,7 @@ countdown(minutes = 10, bottom = 0)
 ## Debrief Instructor 2
 
 1. Instructor 2
+
     - What was your impression of the class? 
     - What were the strengths?
     - Where are you seeking suggestions for improvement?
@@ -157,6 +159,8 @@ knitr::include_graphics("figs/observation-cycle.png")
 
 ## Break!
 
+When you return, please sit next to people who teach a _different_ sort of class than you.
+
 ```{r echo = FALSE}
 countdown(minutes = 5, bottom = 0, play_sound = TRUE)
 ```
@@ -194,7 +198,15 @@ Decide which one of these you *most* identify with.
 Find 2-3 other people who tend to view their roles **differently** and take turns sharing.
 
 1. Your primary and secondary roles, as you understand them to be.
-2. 
+
+2. What two activities you spend the most time doing as part of your role.
+
+3. Was there agreement or contrast in how your instructor views your role?
+
+```{r echo = FALSE}
+countdown::countdown(minutes = 10)
+```
+
 
 ---
 class: center, middle, inverse
@@ -304,6 +316,19 @@ knitr::include_graphics("figs/ta-duties.png")
 - Render individual or group instructional activities in support of regular academic programs. Under supervision, a Tutor’s duties may include individual tutoring sessions, group tutoring sessions, presentation at workshops, and other duties as assigned. Tutors do not perform teaching duties assigned to the GSI series.
 
 ---
+## Academic Intern
+
+**Who are they?**
+- Undergraduate students enrolled in a 1 unit course.
+
+--
+
+**Role**
+- Provide support for students in discussion sections, labs, or office hours, supervised by (U)GSIs. Time commitment is 3 hours per week on average. AIs do not receive financial compensation.
+- Important part of pipeline for (u)GSIs.
+
+
+---
 class: center, middle, inverse
 
 # Teaching as a Team: Well and Poorly
@@ -398,8 +423,17 @@ class: middle, center, inverse
 ## Suggestions: Structure
 
 - Responsibilities of team members
-  - Clear
-- Meetings
-  - _Inherit existing power dynamics_.
-  - Agenda
+  - Be sure they're mutually understood
+  - Timelines can help
+- Meetings _Inherit existing power dynamics_
+  - Make an agenda
   - Assign roles
+  
+---
+## Where to seek help
+
+1. Head TA
+2. Instructor
+3. GSI Advisor
+4. Department Chair
+5. [Campus Ombuds Office](https://sa.berkeley.edu/ombuds)
