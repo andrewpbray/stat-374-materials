@@ -168,24 +168,9 @@ class: middle, center, inverse
 # Teaching as a Team
 
 ---
-
-## The Role of a GSI: The Instructor Perspective
-
-- "core and main engine of the course"
-- "create quiz/exam questions"
-- "in charge of leading section"
-- "empathise with students"
-- "instructors' eyes and ears"
-- "timely, fair and accurate grading of problem sets"
-- "My jobs are similar to yours except that I am giving lectures not lab sessions"
-- No response (most common!)
-
----
 ## The Role of a GSI: The GSI Perspective
 
-A few roles emerged:
-
-### Facilitator
+Beyond facilitating your section, several other roles emerged:
 
 ### Point of Contact
 
@@ -205,6 +190,11 @@ Find 2-3 other people who tend to view their roles differently and answer.
 1. 
 2. 
 3. 
+
+---
+class: center, middle, inverse
+
+# Members of the Teaching Team at Cal
 
 ---
 ## Members of the Teaching Team at Cal
@@ -262,11 +252,28 @@ presented, and for grading student work. Ex. include language, studio, or Readin
 
 
 ---
-GSI duties identified by faculty:
+GSI duties identified by faculty at Pitt:
 
 ```{r echo = FALSE}
 knitr::include_graphics("figs/ta-duties.png")
 ```
+
+---
+## The Role of a GSI: The Instructor Perspective
+
+.pull-left[
+- "core and main engine of the course"
+- "create quiz/exam questions"
+- "in charge of leading section"
+- "empathize with students"
+]
+.pull-right[
+- "instructors' eyes and ears"
+- "timely, fair and accurate grading of problem sets"
+- "My jobs are similar to yours except that I am giving lectures not lab sessions"
+- No response (most common!)
+]
+
 
 
 ---
@@ -278,7 +285,7 @@ knitr::include_graphics("figs/ta-duties.png")
 --
 
 **Role**
-- Render diverse services as course assistants, which will normally include the grading of student papers and examinations. Subject to assignment by the department, duties might also include attendance at lectures, office hours, consultation with the instructor, and other course-related duties. Readers may not perform teaching duties.
+- Render diverse services as course assistants, which will normally include the grading of student papers and examinations. Duties might also include attendance at lectures, office hours, consultation with the instructor, and other course-related duties. _Readers may not perform teaching duties._
 
 ---
 ## Tutor
@@ -289,7 +296,12 @@ knitr::include_graphics("figs/ta-duties.png")
 --
 
 **Role**
-- Appointees to the Tutor title are employed to render individual or group instructional activities in support of regular academic programs. Under supervision, a Tutor’s duties may include individual tutoring sessions, group tutoring sessions, presentation at workshops, and other duties as assigned. Tutors do not perform teaching duties assigned to the GSI series.
+- Render individual or group instructional activities in support of regular academic programs. Under supervision, a Tutor’s duties may include individual tutoring sessions, group tutoring sessions, presentation at workshops, and other duties as assigned. Tutors do not perform teaching duties assigned to the GSI series.
+
+---
+class: center, middle, inverse
+
+# Teaching as a Team: Well and Poorly
 
 
 ---
@@ -362,6 +374,11 @@ Consider a specific aspect of or incident in your working relationship with your
 1. Think: write a short description on the padlet.
 2. Pair: share your experience with a partner and discuss.
 3. Share: whole class discussion.
+
+---
+class: middle, center, inverse
+
+# Strategies for Success
 
 ---
 ## Suggestions: Communication
