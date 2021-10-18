@@ -244,7 +244,7 @@ Consider a specific aspect of or incident in your working relationship with your
 
 ```{r echo = FALSE, fig.height=4.8}
 library(qrcode)
-qr <- qr_code("https://padlet.com/andrewbray1/pum0u6v2gwtwzme")
+qr <- qr_code("https://padlet.com/andrewbray1/57fhfb1azomqzv1s")
 plot(qr)
 ```
 
