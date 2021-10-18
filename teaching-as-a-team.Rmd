@@ -31,6 +31,7 @@ source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xa
 1. Reflections from teaching
 2. Guest: Jake Spertus, Grad Student Union
 3. Teaching observation debrief
+4. Break
 4. Teaching as a team
   - Your role
   - Members of a team at Cal
@@ -167,6 +168,29 @@ class: middle, center, inverse
 # Teaching as a Team
 
 ---
+## The Role of a GSI
+
+Threee-Five roles emerged
+
+### Facilitator
+
+### Grader
+
+###3 balkd
+
+Decide which on of these you most identify with.
+
+---
+## Discuss
+
+Find 2-3 other people who tend to view their roles differently and answer.
+
+1. 
+2. 
+3. 
+
+
+---
 ## Teaching as a Team: Well
 
 Consider a specific aspect of or incident in your working relationship with your teaching team that has gone _well_.
@@ -247,4 +271,6 @@ Consider a specific aspect of or incident in your working relationship with your
 ---
 ## Suggestions: Structure
 
-
+- roles
+- meetings
+- communication
