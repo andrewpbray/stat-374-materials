@@ -169,7 +169,7 @@ class: middle, center, inverse
 
 ---
 
-# The Instructor Perspective
+## The Role of a GSI: The Instructor Perspective
 
 - "core and main engine of the course"
 - "create quiz/exam questions"
@@ -181,17 +181,21 @@ class: middle, center, inverse
 - No response (most common!)
 
 ---
-## The Role of a GSI
+## The Role of a GSI: The GSI Perspective
 
-Threee-Five roles emerged
+A few roles emerged:
 
 ### Facilitator
 
-### Grader
+### Point of Contact
 
-###3 balkd
+### Content Creator
 
-Decide which on of these you most identify with.
+### Operations/Logistics Support
+
+### Inspirer
+
+Decide which one of these you *most* identify with.
 
 ---
 ## Discuss
