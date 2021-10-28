@@ -1,0 +1,52 @@
+---
+title: "Creating an Inclusive Classroom"
+author: "STAT 375 UC Berkeley"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: solarized-light
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(message = FALSE, 
+                      fig.align = "center",
+                      fig.retina = 3,
+                      warning = FALSE)
+
+library(tidyverse)
+library(emo)
+library(lorem)
+library(xaringanthemer)
+library(countdown)
+source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xaringan-theme.R")
+```
+
+## Agenda
+
+1. Reflections from teaching
+2. Guest: Kristen Nelson, Dept. of Sociology
+
+---
+class: middle, center, inverse
+
+# Reflections from teaching
+
+---
+## Reflections from teaching
+
+.task[
+In your groups, take turns sharing:
+
+1. One thing that went well
+2. One thing that went poorly
+3. One thing you learned
+]
+
+```{r echo = FALSE}
+countdown(minutes = 10, bottom = 0)
+```
