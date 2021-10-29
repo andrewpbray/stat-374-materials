@@ -1,0 +1,2 @@
+## Reflection
+Last week we talked about being intentional in your lesson design. We encountered the fact that depending on the class for which you GSI, you may be given detailed lesson plans and guidance, you may be given none, or you might lie somewhere in between. What have you found to the challenges of working with *detailed or scant* lesson plans so far this semester? What have been the advantages? In an ideal world, what form of support / lesson plan / guidance would your instructor be providing you?
