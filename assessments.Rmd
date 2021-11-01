@@ -113,7 +113,7 @@ _Assessments_ can be anything the instructor asks of the student to assess their
 
 
 ???
-Assessments can be anything the instructor asks of the student to assess their level of understanding; opportunities provided to students to demonstrate their own understanding. Items meant purely for practice, like some homework, might not be considered an assessment and might not be graded.
+Discussion: Items meant purely for practice, like some homework, might not be considered an assessment and might not be graded.
 
 ---
 ## What are grades?
@@ -175,7 +175,16 @@ Knowledge
 
 --
 
-- 
+- Grades generally inhibit motivation (except in high achievers).
+
+--
+
+- Extrinsic motivation supplants intrinsic motivation.
+
+--
+
+???
+Study to mention: Regular volunteers (e.g. Kiwanas) provided payment for volunteerism see a decline in hours volunteered over a control, non-compensated group.
 
 
 ---
@@ -205,7 +214,7 @@ Knowledge
 
 - Subjective grading of writing very inconsistent between and within instructors.
 
----
+--
 
 - Rubrics help.
 
@@ -296,3 +305,74 @@ countdown(minutes = 8,
 </center>
 
 ---
+
+## Break
+
+```{r echo = FALSE}
+countdown(minutes = 5, 
+          bottom = 0, 
+          font_size = "1em",
+          warn_when = 10)
+```
+
+---
+class: center, middle, inverse
+
+# Writing Good Questions
+
+---
+## Blooms Taxonomy
+
+---
+## Example 1
+
+Which level of the hierarchy is tested by the following question?
+
+---
+## Example 2
+
+Which level of the hierarchy is tested by the following question?
+
+---
+## Example 3
+
+Which level of the hierarchy is tested by the following question?
+
+---
+## Question workshop part I
+
+With the people at your table, take turns sharing your question and addressing
+
+1. The concept(s) that it assesses.
+2. The form of inquiry it assesses based on Bloom's.
+3. What you like / dislike about the question.
+4. Where/how a student could misinterpret the question.
+5. How difficult it will be to grade.
+
+```{r echo = FALSE}
+countdown(minutes = 10, 
+          font_size = "3em",
+          warn_when = 10)
+```
+
+---
+## Question workshop part II
+
+Select one of your groups question as a candidate for revisions.
+
+1. Upload the question to the google doc.
+2. Rewrite the question into a second version that is **more** challenging.
+3. Rewrite the question into a third version that is **less** challenging.
+
+Link to the google doc: `shorturl.at/btvF9`
+
+```{r echo = FALSE, fig.height = 3.5}
+plot(qrcode::qr_code("shorturl.at/btvF9"))
+```
+
+
+```{r echo = FALSE}
+countdown(minutes = 6, 
+          font_size = "3em",
+          warn_when = 10)
+```
