@@ -30,13 +30,12 @@ source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xa
 ## Agenda
 
 1. Reflections from teaching
-2. Types of Assessments
-2. Purpose of Grading
-3. What to do about grades
- - Eric Mazur
- - Debate
-4. Break
-5. Writing good questions
+2. Assessments and Grading
+  - Types of assessments
+  - Goals of grading
+  - Alternate grading systems
+3. Break
+4. Writing good questions
   - Bloom's Taxonomy
   - Question Workshop
 
@@ -136,6 +135,11 @@ class: middle, center
 
 ---
 ## Purposes of Grading
+
+```{r echo = FALSE}
+knitr::include_graphics("figs/grading-less.png")
+```
+
 --
 
 1. Grades as Feedback on Performance
@@ -175,13 +179,15 @@ Knowledge
 
 --
 
-- Grades generally inhibit motivation (except in high achievers).
+- "Grades can dampen existing intrinsic motivation, give rise to extrinsic motivation, enhance fear of failure, reduce interest, decrease enjoyment in class work, increase anxiety, hamper performance on follow-up tasks, stimulate avoidance of challenging tasks, and heighten competitiveness"
 
 --
 
 - Extrinsic motivation supplants intrinsic motivation.
 
 --
+
+"Perhaps at best, grading motivates high-achieving students to continue getting high grades—regardless of whether that goal also happens to overlap with learning. At worst, grading lowers interest in learning and enhances anxiety and extrinsic motivation, especially among those students who are struggling."
 
 ???
 Study to mention: Regular volunteers (e.g. Kiwanas) provided payment for volunteerism see a decline in hours volunteered over a control, non-compensated group.
@@ -321,22 +327,90 @@ class: center, middle, inverse
 # Writing Good Questions
 
 ---
-## Blooms Taxonomy
+## Bloom's Taxonomy
+
+```{r echo = FALSE, out.width = "85%"}
+knitr::include_graphics("figs/blooms.jpeg")
+```
+
 
 ---
 ## Example 1
+--
 
-Which level of the hierarchy is tested by the following question?
+```{r echo = FALSE, out.width = "85%"}
+knitr::include_graphics("figs/blooms-ex1.png")
+```
+
+--
+
+> Which levels of the hierarchy are tested by the following question?
+
+> What must students know to answer it?
 
 ---
 ## Example 2
+--
 
-Which level of the hierarchy is tested by the following question?
+```{r echo = FALSE, out.width = "55%"}
+knitr::include_graphics("figs/blooms-ex2.png")
+```
+
+--
+
+> Which levels of the hierarchy are tested by the following question?
+
+> What must students know to answer it?
 
 ---
 ## Example 3
+--
 
-Which level of the hierarchy is tested by the following question?
+```{r echo = FALSE, out.width = "85%"}
+knitr::include_graphics("figs/blooms-ex3.png")
+```
+
+--
+
+> Which levels of the hierarchy are tested by the following question?
+
+> What must students know to answer it?
+
+---
+## Questions to ask
+
+.task[
+What other questions should you ask yourself when you're writing questions?
+]
+
+--
+
+1. Which level of the hierarchy is being assessed?
+
+--
+
+1. What must students know to answer it?
+
+--
+
+1. How could a student misinterpret this question?
+
+--
+
+1. Can a student answer this question if they got a previous one wrong?
+
+--
+
+1. How long will this question take to answer?
+
+--
+
+1. How long will this question take to grade?
+
+
+???
+Consider populating this list with GSI advice on the board before showing.
+
 
 ---
 ## Question workshop part I
