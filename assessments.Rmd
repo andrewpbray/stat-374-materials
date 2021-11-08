@@ -237,7 +237,12 @@ Recall the structure of a PI Question.
 
 --
 
-Prepare to poll: 
+Prepare to poll: `pollev.com/andrewbray088`
+
+```{r echo = FALSE, fig.width = 3}
+plot(qrcode::qr_code("https://pollev.com/andrewbray088"))
+```
+
 
 ---
 
