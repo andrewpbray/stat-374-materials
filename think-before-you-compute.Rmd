@@ -1,0 +1,298 @@
+---
+title: "Think Before You Compute"
+author: "STAT 375 UC Berkeley"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: solarized-light
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(message = FALSE, 
+                      fig.align = "center",
+                      fig.retina = 3,
+                      warning = FALSE)
+
+library(tidyverse)
+library(emo)
+library(lorem)
+library(xaringanthemer)
+library(countdown)
+source("https://raw.githubusercontent.com/andrewpbray/stat-375-website/master/xaringan-theme.R")
+```
+
+## Agenda
+
+1. Think before you compute
+  - The curse of small curiosities
+  - Lesson plan case study: Student Evals
+  - Debrief
+2. Break
+3. Teaching observation debrief
+
+---
+class: middle, center
+
+### Consider the lab...
+
+---
+
+## What should the students be doing?
+--
+
+```{r echo = FALSE, out.width="80%"}
+knitr::include_graphics("figs/ComputerLab2020.jpeg")
+```
+.cite[source: https://www.uakron.edu/cba/student-resources/cba-computer-labs/]
+]
+
+---
+
+class: center, middle
+
+# Part I
+
+.adage[Please put all laptops away.
+
+You won't need them today.]
+
+---
+## Getting Started
+
+- Please form pairs or trios
+
+- Move around seats as needed
+
+- Introduce yourself to anyone you don't know
+
+
+---
+## Work flow for today
+
+We'll work through a scientific article page by page. For each few pages, I'll pose a few questions here and you will...
+
+1. work silently by yourself on the questions, writing notes on the article, 
+
+1. discuss your answers as a group and write your answer to any questions in italics on the board near you, 
+
+1. share your answers if I call on you after most groups are done.
+
+Then we'll repeat this cycle to work through all/most of the questions for the first half of the lab.
+
+---
+
+1. _**General**: As you read through the article, note here any words or acronyms that you were not familiar with before and provide their definition._
+
+---
+
+1. _**Abstract**: Which finding strikes you as the most important? Why?_
+
+1. **Abstract**: Based on the results summarized here, what do you believe was the overarching research question that the scientists were wondering about when they devised this study?
+
+1. _**Background**: Why is a student's answer to "How effective was the instructor?" not always helpful in understanding how effective the instructor was?_
+
+1. **Background**: What is the general statement of the null hypothesis that is applied to every analysis in this paper?
+
+1. **Background**: What do the results of this study indicate about the relative impact of the teaching effectiveness and perceived gender on SET?
+
+```{r echo = FALSE}
+countdown::countdown(5)
+```
+
+
+---
+
+1. _**Data**: Why did the researchers in the US experiment have the TAs swap identities for one of the sections that each of them taught?_
+
+1. _**Data**: Based on the description in the paper, sketch/speculate what the US experimental data frame might look like. Be sure to note the unit of observation, the number of rows and columns, that names of the variables, their data type, and the values they can take._
+
+```{r echo = FALSE}
+countdown::countdown(7)
+```
+
+---
+
+1. _**Methods**: The previous analysis of the US data (MacNell et al.) addresses the same questions that this analysis does. What differs in the two studies?_
+
+1. **Methods**: What is the test statistic that is used throughout the analysis?
+
+1. **Methods**: _Sketch/speculate what a plot could look like of the relationship between the Prompt SET scores and reported instructor gender. This should be a plot of the full data set and should be consistent with the statistics shown in table 8. Repeat the exercise for the Responsive SET scores and reported instructor gender._
+
+```{r echo = FALSE}
+countdown::countdown(7)
+```
+
+---
+class: center, middle
+
+# Part II
+
+.adage[Today you will use your laptops.]
+
+---
+
+The authors of this manuscript ensured that their analysis is fully reproducible by making their manuscript, data, and code easily available at `https://github.com/kellieotto/SET-and-Gender-Bias`. You can load the data from the US experiment with:
+
+```{r eval = FALSE, echo = TRUE}
+library(tidyverse)
+set <- read_csv("https://bit.ly/3vPsnFL")
+```
+
+12. What is the unit of observation in the data frame? What are the dimensions of the data frame? How many students from each section filled out evaluations (at least partially)?
+
+```{r eval = TRUE, echo = FALSE}
+countdown::countdown(4)
+```
+
+---
+
+14. Use the plots that you drew in question 11 as inspiration for constructing two plots of the actual data: the relationship between Prompt SET and reported TA gender, and the relationship between Responsive SET and reported TA gender. Describe each pair of plots: how does the rating for each differ based on the reported instructor gender?
+
+```{r eval = TRUE, echo = FALSE}
+countdown::countdown(3)
+```
+
+---
+
+15. Perform a test of the hypothesis that Prompt rating is independent of the reported TA gender id. Include in your analysis:
+    a. A statement of the null and alternative hypothesis.
+    b. The value of the observed test statistic.
+    c. A plot of the distribution of the test statistic under the null hypothesis with your observed test statistic included as a vertical line.
+    d. A calculation of the two-sided p-value.
+    e. A conclusion regarding the null hypothesis using $\alpha = .05$.
+
+```{r eval = TRUE, echo = FALSE}
+countdown::countdown(5)
+```
+
+---
+
+16. Perform a test of the hypothesis that Responsive rating is independent of the reported TA gender id. Include in your analysis:
+    a. A statement of the null and alternative hypothesis.
+    b. The value of the observed test statistic.
+    c. A plot of the distribution of the test statistic under the null hypothesis with your observed test statistic included as a vertical line.
+    d. A calculation of the two-sided p-value.
+    e. A conclusion regarding the null hypothesis using $\alpha = .05$.
+    
+---
+
+17. **Conclusion**: Do you find that the arguments in this section of the manuscript are consistent with the results of their data analysis? Do you find that they're consistent with your own experience will evaluating instructors?
+
+```{r eval = TRUE, echo = FALSE}
+countdown::countdown(3)
+```
+
+---
+## Debrief
+
+---
+
+## Break!
+
+When you return, please sit next to your observation partner.
+
+```{r echo = FALSE}
+countdown(minutes = 5, bottom = 0)
+```
+
+---
+class: middle, center, inverse
+
+# Teaching Observation Discussion
+
+---
+
+```{r echo = FALSE}
+knitr::include_graphics("figs/observation-cycle.png")
+```
+
+---
+
+## Teaching Observation Debrief
+
+### Goals
+- Provide feedback from observed class
+- Venue for discussion about teaching strategies
+
+--
+    
+### Format
+1. Spend 10 minutes discussing instructor 1's class session.
+2. Spend 10 minutes discussing instructor 2's class session.
+
+_Person with a longer first name will be instructor 1._
+
+---
+## Debrief Instructor 1
+
+1. Instructor 1
+
+    - What was your impression of the class? 
+    - What were the strengths?
+    - Where are you seeking suggestions for improvement?
+
+--
+2. Observer
+    - What went well?
+    - Constructive but gentle suggestions. "I noticed that ... I wonder if..."
+    - Avoid bland general feedback. Focus on specific and actionable.
+    - Share observation form
+    
+--
+
+3. Discuss: Instructor takes notes on form
+
+--
+
+```{r echo = FALSE}
+countdown(minutes = 10, bottom = 0)
+```
+
+---
+## Debrief Instructor 2
+
+1. Instructor 2
+
+    - What was your impression of the class? 
+    - What were the strengths?
+    - Where are you seeking suggestions for improvement?
+
+--
+2. Observer
+    - What went well?
+    - Constructive but gentle suggestions. "I noticed that ... I wonder if..."
+    - Avoid bland general feedback. Focus on specific and actionable.
+    - Share observation form
+    
+--
+
+3. Discuss: Instructor takes notes on form
+
+--
+
+```{r echo = FALSE}
+countdown(minutes = 10, bottom = 0)
+```
+
+---
+???
+
+## Large group discussion questions
+- As the teacher, what was the most useful part of this process for you?
+- As the observer, what would you like to improve for next time?
+
+---
+
+```{r echo = FALSE}
+knitr::include_graphics("figs/observation-cycle.png")
+```
+
+---
+## Last Step
+
+- Take your observation form with notes and type up reflection as part of next assignment to be posted to bCourses.
